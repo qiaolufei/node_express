@@ -1,6 +1,6 @@
 let mysql = require('mysql');
 const dbConfig = {
-    host: '175.24.122.85',
+    host: '127.0.0.1',
     user: 'root',
     password: 'qlc961009',
     database: 'test'
